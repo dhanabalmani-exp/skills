@@ -2,6 +2,7 @@
 ### Concepts from core Java:
 - OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
 	- [Abstraction](src/main/java/exp/java/core/concepts/abs/AbstractConcept.java)
+		> Abstraction hides details at the **design level**, while Encapsulation hides details at the **implementation level**.
 - Basic Java constructs like loops and data types
 - String handling
 - Collection framework
