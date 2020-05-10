@@ -1,6 +1,7 @@
 # skills
 ### Concepts from core Java:
 - OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
+	- Abstraction
 - Basic Java constructs like loops and data types
 - String handling
 - Collection framework
