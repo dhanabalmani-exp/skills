@@ -15,9 +15,9 @@
 - JDBC (Java Database Connectivity)
 - Servlet
 - JSP
-- Popular Frameworks:
 
-### Spring (MVC, Core, JDBC, ORM, AOP)
+### Popular Frameworks:
+- Spring (MVC, Core, JDBC, ORM, AOP)
 - Hibernate ORM framework
 - Web Services (SOAP & REST)
 	
