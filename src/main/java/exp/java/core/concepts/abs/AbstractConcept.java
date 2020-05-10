@@ -8,15 +8,14 @@ package exp.java.core.concepts.abs;
  * class in Java. it can have abstract and non-abstract methods (method with the
  * body).
  * 
- * @category Points
- *           <ul>
- *           <li>An abstract class must be declared with an abstract keyword.
- *           <li>It can have abstract and non-abstract methods.
- *           <li>It cannot be instantiated.
- *           <li>It can have constructors and static methods also.
- *           <li>It can have final methods which will force the subclass not to
- *           change the body of the method.
- *           </ul>
+ * <ul>
+ * <li>An abstract class must be declared with an abstract keyword.
+ * <li>It can have abstract and non-abstract methods.
+ * <li>It cannot be instantiated.
+ * <li>It can have constructors and static methods also.
+ * <li>It can have final methods which will force the subclass not to change the
+ * body of the method.
+ * </ul>
  * 
  * @author DhanabalM
  *
@@ -94,16 +93,16 @@ public abstract class AbstractConcept {
 			}
 		}
 
-		//Compile time error: Cannot instantiate
-		//final AbstractConcept c = new AbstractConcept();
-		
-		//Way to access
+		// Compile time error: Cannot instantiate
+		// final AbstractConcept c = new AbstractConcept();
+
+		// Way to access
 		final AbstractConcept c = new AbstractConcept1();
-		
-		//Call the abstract methods
+
+		// Call the abstract methods
 		c.sign();
-		
-		//Call the non-abstract methods
+
+		// Call the non-abstract methods
 		c.signAndApprove();
 
 		// Can be accessed using Abstract class name as it is defined as static
